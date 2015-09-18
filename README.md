@@ -6,6 +6,7 @@ Firstly, input the number of dimensions the matrix should have (it must be a squ
 Secondly, input the numbers in the matrix separated by spaces, line by line. See input and output examples below.
 
 Program input:
+
 2
 
 1 2
@@ -14,13 +15,16 @@ Program input:
 
 
 Program output:
+
 3 1
 
 2 4
 
 
 
+
 Program input:
+
 3
 
 1 2 3
@@ -31,6 +35,7 @@ Program input:
 
 
 Program output:
+
 4 1 2 
 
 7 5 3 
@@ -39,7 +44,9 @@ Program output:
 
 
 
+
 Program input:
+
 5
 
 01 02 03 04 05
@@ -54,6 +61,7 @@ Program input:
 
 
 Program output:
+
 06 01 02 03 04 
 
 11 12 07 08 05 
